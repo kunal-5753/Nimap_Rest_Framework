@@ -1,12 +1,12 @@
 Functionality of project:-
-    Create a user
-    Get all users
-    Create a client
-    Get all clients
-    Get client by ID
-    Update client by ID
-    Delete client by ID
-    Create project
+    Create a user,
+    Get all users,
+    Create a client,
+    Get all clients,
+    Get client by ID,
+    Update client by ID,
+    Delete client by ID,
+    Create project,
     Get all projects
 
 APIS in the project
